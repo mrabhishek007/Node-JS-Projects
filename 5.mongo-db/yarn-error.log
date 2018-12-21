@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Vikash\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add moongose --save
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Hewlett-Packard\SimplePass\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files\PuTTY\;C:\Users\Vikash\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Vikash\AppData\Local\Programs\Python\Python36\;C:\Users\Vikash\AppData\Local\Microsoft\WindowsApps;C:\Users\Vikash\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\MongoDB\Server\3.6\bin
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  8.11.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/moongose: Not found
+      at Request.params.callback [as _callback] (C:\Users\Vikash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:64202:18)
+      at Request.self.callback (C:\Users\Vikash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137468:22)
+      at emitTwo (events.js:126:13)
+      at Request.emit (events.js:214:7)
+      at Request.<anonymous> (C:\Users\Vikash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:138440:10)
+      at emitOne (events.js:116:13)
+      at Request.emit (events.js:211:7)
+      at IncomingMessage.<anonymous> (C:\Users\Vikash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:138362:12)
+      at Object.onceWrapper (events.js:313:30)
+      at emitNone (events.js:111:20)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
